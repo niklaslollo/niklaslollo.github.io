@@ -1,0 +1,11 @@
+---
+name: "Niklas Lollo"
+navbar:
+  title: "Niklas Lollo"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+---
+
