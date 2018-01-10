@@ -1,6 +1,9 @@
----
-name: "Niklas Lollo"
+name: niklaslollo.github.io
 output_dir: "."
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
 navbar:
   title: "Niklas Lollo"
   left:
@@ -8,5 +11,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
----
-
+    - text: "Projects"
+      href: projects.html
+    - text: "Contact"
+      href: contact.html
+      

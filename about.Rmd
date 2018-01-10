@@ -1,7 +1,6 @@
 ---
 title: "Niklas Lollo"
 ---
-
-More about Niklas Lollo.
-
 I am a 3rd year PhD student in the Energy and Resources Group at UC Berkeley.
+
+Inspired by ecological economics, Niklas is focused on global governance of production and consumption. At ERG, he is combining data analysis with case studies to examine the apparel industry’s attempt to improve environmental outcomes and to acquire political legitimacy. Niklas is a part of a NSF NRT for data science, and has contributed to data-based projects on the health impacts of Bay Area refineries, integrated assessment modeling, and the spatial distribution of household carbon footprints.
