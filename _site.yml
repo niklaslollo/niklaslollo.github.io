@@ -1,5 +1,6 @@
 ---
 name: "Niklas Lollo"
+output_dir: "."
 navbar:
   title: "Niklas Lollo"
   left:
@@ -7,6 +8,5 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-output_dir: "."
 ---
 
