@@ -3,3 +3,5 @@ title: "Niklas Lollo"
 ---
 
 More about Niklas Lollo.
+
+I am a 3rd year PhD student in the Energy and Resources Group at UC Berkeley.
