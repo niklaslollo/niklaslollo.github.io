@@ -13,6 +13,14 @@ navbar:
       href: about.html
     - text: "Projects"
       href: projects.html
-    - text: "Contact"
-      href: contact.html
+    - text: "Get in Touch"
+      menu:
+        - icon: fa-twitter
+          href: https://twitter.com/niklaslollo
+        - icon: fa-github
+          href: https://github.com/niklaslollo
+        - icon: fa-linkedin
+          href: https://linkedin.com/in/lollon
+        - icon: fa-envelope
+          href: mailto:lollon@berkeley.edu
       

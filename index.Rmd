@@ -4,3 +4,5 @@ title: "Niklas Lollo"
 
 Hello, Website!
 
+![Photo Credit: Sharada Prasad, 2016](photos/CSP_3556.jpg)
+
