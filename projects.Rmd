@@ -1,4 +1,4 @@
-## Current Papers & Projects
+## Publications {.tabset}
 
 ### Submitted for Review
  - Mimi-PAGE to Nature Scientific Data
@@ -6,11 +6,12 @@
 ### Pre-submission
  - Field Experiment on worker wages, productivity and profits in clothing factory
 
-
-## Published
+### Published
 [Transforming Consumption](http://www.annualreviews.org/doi/abs/10.1146/annurev-environ-102014-021224)
 
+## Projects{.tabset}
 
-## Completed
+### Ongoing
+### Completed
  * [Fair Tech Collective]()
  
