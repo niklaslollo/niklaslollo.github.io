@@ -240,30 +240,53 @@ $(document).ready(function () {
 </div>
 
 
-<div id="current-papers-projects" class="section level2">
-<h2>Current Papers &amp; Projects</h2>
-<div id="submitted-for-review" class="section level3">
-<h3>Submitted for Review</h3>
+<div id="faq" class="section level1 tabset">
+<h1>FAQ</h1>
+<div id="why-is-this-needed" class="section level2">
+<h2>Why is this needed?</h2>
+<p>Working with Github is great for version control and collaborating on projects. Many of my project partners have expressed fear about working with Github and especially working with the Terminal.</p>
+<p>I’ve found that you only need to know a few basic steps to get up and going.</p>
+</div>
+<div id="who-is-this-for" class="section level2">
+<h2>Who is this for?</h2>
+<p>This is for new users to Github. The users should have some familiarity to coding, but this is not exactly needed. <em>Disclaimer</em>: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows.</p>
+</div>
+</div>
+<div id="getting-started" class="section level1 tabset">
+<h1>Getting started</h1>
+<div id="clone-directory" class="section level2">
+<h2>Clone directory</h2>
 <ul>
-<li>Mimi-PAGE to Nature Scientific Data</li>
+<li>Navigate to directory in terminal</li>
 </ul>
 </div>
-<div id="pre-submission" class="section level3">
-<h3>Pre-submission</h3>
-<ul>
-<li>Field Experiment on worker wages, productivity and profits in clothing factory</li>
-</ul>
+<div id="create-branch" class="section level2">
+<h2>Create branch</h2>
+<p><code>git checkout -b branchname</code></p>
 </div>
+<div id="move-branch" class="section level2">
+<h2>Move branch</h2>
+<p><code>git checkout branchname</code></p>
 </div>
-<div id="published" class="section level2">
-<h2>Published</h2>
-<p><a href="http://www.annualreviews.org/doi/abs/10.1146/annurev-environ-102014-021224">Transforming Consumption</a></p>
+<div id="check-status" class="section level2">
+<h2>Check status</h2>
+<p><code>git status</code></p>
 </div>
-<div id="completed" class="section level2">
-<h2>Completed</h2>
-<ul>
-<li><a href="">Fair Tech Collective</a></li>
-</ul>
+<div id="add" class="section level2">
+<h2>Add</h2>
+<pre><code>git add .
+git commit -m &quot;Message&quot;
+git push</code></pre>
+</div>
+<div id="create-pull-request-on-github" class="section level2">
+<h2>Create Pull Request on github</h2>
+<ol style="list-style-type: decimal">
+<li>Someone reviews and maybe merges</li>
+<li>That someone deletes branch after merged with master (there’s a button on the PR)</li>
+<li>Delete branch locally</li>
+</ol>
+<p><code>git branch -d branch_name</code></p>
+</div>
 </div>
 
 

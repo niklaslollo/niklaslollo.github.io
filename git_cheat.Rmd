@@ -1,0 +1,38 @@
+# FAQ {.tabset}
+
+## Why is this needed?
+Working with Github is great for version control and collaborating on projects. Many of my project partners have expressed fear about working with Github and especially working with the Terminal. 
+
+I've found that you only need to know a few basic steps to get up and going. 
+
+## Who is this for?
+This is for new users to Github. The users should have some familiarity to coding, but this is not exactly needed. *Disclaimer*: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows. 
+
+# Getting started {.tabset}
+
+
+## Clone directory
+* Navigate to directory in terminal
+
+## Create branch
+`git checkout -b branchname`
+
+## Move branch
+`git checkout branchname`
+
+## Check status
+`git status`
+
+## Add
+```
+git add .
+git commit -m "Message"
+git push
+```
+
+## Create Pull Request on github
+ 1. Someone reviews and maybe merges
+ 2. That someone deletes branch after merged with master (there's a button on the PR)
+ 3. Delete branch locally
+
+`git branch -d branch_name`
