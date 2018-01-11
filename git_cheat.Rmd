@@ -19,7 +19,7 @@ These steps are meant for co-equal collaborators. They will work with Forks, but
 ## Using Git from Terminal {.tabset}
 
 ### Clone directory
-1. Copy clone https link  
+1. Copy clone https link **from Github**  
 e.g. `https://github.com/niklaslollo/niklaslollo.github.io.git`
 
 2. Navigate to chosen location using terminal
