@@ -15,8 +15,10 @@ These guidelines are also for co-equal collaborators, not for Forks. But forking
 ### Clone directory
 1. Copy clone https link  
 e.g. `https://github.com/niklaslollo/niklaslollo.github.io.git`
+
 2. Navigate to chosen location using terminal
 `cd <folder>/<folder>/`
+
 3. Clone it:  
 `git clone <link>`
 
@@ -33,13 +35,16 @@ To navigate around branches:
 
 ### Add files or updates
 You will want to send your updates to the branch on which you were working. Use the status check to figure out which branch you are on.  
+
 1. Add files or updates  
 `git add .` adds every possible update in your repo. **Recommended**  
-`git add <file>` adds only that file or its updates.  
-2. Commit and add a message
+`git add <file>` adds only that file or its updates. 
+
+2. Commit and add a message  
 `git commit -m "message"`  
 Try to be succinct, but descriptive in your message. This tags the update for future reference.  
-3. Push to github
+
+3. Push to github  
 `git push`
 
 ### Create Pull Request on github
