@@ -57,7 +57,7 @@ Try to be succinct, but descriptive in your message. This tags the update for fu
 `git push`
 
 ### Merging with master branch
- 1. Create pull request from your branch on Github.  
+ 1. Create pull request from your branch **on Github**.  
  
  2. Another partner reviews and decides whether to merge or ask for edits.  
  
