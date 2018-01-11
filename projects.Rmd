@@ -12,6 +12,5 @@
 
 
 ## Completed
-2017:
- - Fair Tech Collective
+ * [Fair Tech Collective]()
  

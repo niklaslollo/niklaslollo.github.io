@@ -1,26 +1,28 @@
 name: niklaslollo.github.io
-output_dir: "."
+output_dir: '.'
 output:
   html_document:
     lib_dir: site_libs
+    theme: simplex
     self_contained: no
+    css: style.css
 navbar:
-  title: "Niklas Lollo"
+  title: Niklas Lollo
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Projects"
-      href: projects.html
-    - text: "Get in Touch"
-      menu:
-        - icon: fa-twitter
-          href: https://twitter.com/niklaslollo
-        - icon: fa-github
-          href: https://github.com/niklaslollo
-        - icon: fa-linkedin
-          href: https://linkedin.com/in/lollon
-        - icon: fa-envelope
-          href: mailto:lollon@berkeley.edu
-      
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+  - text: Projects
+    href: projects.html
+  - text: Get in Touch
+    menu:
+    - icon: fa-twitter
+      href: https://twitter.com/niklaslollo
+    - icon: fa-github
+      href: https://github.com/niklaslollo
+    - icon: fa-linkedin
+      href: https://linkedin.com/in/lollon
+    - icon: fa-envelope
+      href: mailto:lollon@berkeley.edu
+
