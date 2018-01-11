@@ -1,36 +1,48 @@
-# FAQ {.tabset}
+## FAQ {.tabset}
 
-## Why is this needed?
+### Why is this needed?
 Working with Github is great for version control and collaborating on projects. Many of my project partners have expressed fear about working with Github and especially working with the Terminal. 
 
 I've found that you only need to know a few basic steps to get up and going. 
 
-## Who is this for?
+### Who is this for?
 This is for new users to Github. The users should have some familiarity to coding, but this is not exactly needed. *Disclaimer*: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows. 
 
-# Getting started {.tabset}
+These guidelines are also for co-equal collaborators, not for Forks. But forking only requires a little more work to figure our
 
+## Getting started {.tabset}
 
-## Clone directory
-* Navigate to directory in terminal
+### Clone directory
+1. Copy clone https link  
+e.g. `https://github.com/niklaslollo/niklaslollo.github.io.git`
+2. Navigate to chosen location using terminal
+`cd <folder>/<folder>/`
+3. Clone it:  
+`git clone <link>`
 
-## Create branch
-`git checkout -b branchname`
-
-## Move branch
-`git checkout branchname`
-
-## Check status
+### Check status
+You will want to check status early and often. Do this between each step as you get used to working with git. The terminal will return a response detailing what is happening and provide suggestions for what you might want to do.  
 `git status`
 
-## Add
-```
-git add .
-git commit -m "Message"
-git push
-```
+### Branches
+You will want to work on a branch of the master, then merge it later.  
+`git checkout -b <branchname>`  
+  
+To navigate around branches:
+`git checkout <branchname>`
 
-## Create Pull Request on github
+### Add files or updates
+You will want to send your updates to the branch on which you were working. Use the status check to figure out which branch you are on.  
+1. Add files or updates  
+`git add .` adds every possible update in your repo. **Recommended**  
+`git add <file>` adds only that file or its updates.  
+2. Commit and add a message
+`git commit -m "message"`  
+Try to be succinct, but descriptive in your message. This tags the update for future reference.  
+3. Push to github
+`git push`
+
+### Create Pull Request on github
  1. Someone reviews and maybe merges
  2. That someone deletes branch after merged with master (there's a button on the PR)
  3. Delete branch locally

@@ -240,46 +240,54 @@ $(document).ready(function () {
 </div>
 
 
-<div id="faq" class="section level1 tabset">
-<h1>FAQ</h1>
-<div id="why-is-this-needed" class="section level2">
-<h2>Why is this needed?</h2>
+<div id="faq" class="section level2 tabset">
+<h2>FAQ</h2>
+<div id="why-is-this-needed" class="section level3">
+<h3>Why is this needed?</h3>
 <p>Working with Github is great for version control and collaborating on projects. Many of my project partners have expressed fear about working with Github and especially working with the Terminal.</p>
 <p>I’ve found that you only need to know a few basic steps to get up and going.</p>
 </div>
-<div id="who-is-this-for" class="section level2">
-<h2>Who is this for?</h2>
+<div id="who-is-this-for" class="section level3">
+<h3>Who is this for?</h3>
 <p>This is for new users to Github. The users should have some familiarity to coding, but this is not exactly needed. <em>Disclaimer</em>: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows.</p>
+<p>These guidelines are also for co-equal collaborators, not for Forks. But forking only requires a little more work to figure our</p>
 </div>
 </div>
-<div id="getting-started" class="section level1 tabset">
-<h1>Getting started</h1>
-<div id="clone-directory" class="section level2">
-<h2>Clone directory</h2>
-<ul>
-<li>Navigate to directory in terminal</li>
-</ul>
+<div id="getting-started" class="section level2 tabset">
+<h2>Getting started</h2>
+<div id="clone-directory" class="section level3">
+<h3>Clone directory</h3>
+<ol style="list-style-type: decimal">
+<li>Copy clone https link<br />
+e.g. <code>https://github.com/niklaslollo/niklaslollo.github.io.git</code></li>
+<li>Navigate to chosen location using terminal <code>cd &lt;folder&gt;/&lt;folder&gt;/</code></li>
+<li>Clone it:<br />
+<code>git clone &lt;link&gt;</code></li>
+</ol>
 </div>
-<div id="create-branch" class="section level2">
-<h2>Create branch</h2>
-<p><code>git checkout -b branchname</code></p>
+<div id="check-status" class="section level3">
+<h3>Check status</h3>
+<p>You will want to check status early and often. Do this between each step as you get used to working with git. The terminal will return a response detailing what is happening and provide suggestions for what you might want to do.<br />
+<code>git status</code></p>
 </div>
-<div id="move-branch" class="section level2">
-<h2>Move branch</h2>
-<p><code>git checkout branchname</code></p>
+<div id="branches" class="section level3">
+<h3>Branches</h3>
+<p>You will want to work on a branch of the master, then merge it later.<br />
+<code>git checkout -b &lt;branchname&gt;</code></p>
+<p>To navigate around branches: <code>git checkout &lt;branchname&gt;</code></p>
 </div>
-<div id="check-status" class="section level2">
-<h2>Check status</h2>
-<p><code>git status</code></p>
+<div id="add-files-or-updates" class="section level3">
+<h3>Add files or updates</h3>
+<p>You will want to send your updates to the branch on which you were working. Use the status check to figure out which branch you are on.<br />
+1. Add files or updates<br />
+<code>git add .</code> adds every possible update in your repo. <strong>Recommended</strong><br />
+<code>git add &lt;file&gt;</code> adds only that file or its updates.<br />
+2. Commit and add a message <code>git commit -m &quot;message&quot;</code><br />
+Try to be succinct, but descriptive in your message. This tags the update for future reference.<br />
+3. Push to github <code>git push</code></p>
 </div>
-<div id="add" class="section level2">
-<h2>Add</h2>
-<pre><code>git add .
-git commit -m &quot;Message&quot;
-git push</code></pre>
-</div>
-<div id="create-pull-request-on-github" class="section level2">
-<h2>Create Pull Request on github</h2>
+<div id="create-pull-request-on-github" class="section level3">
+<h3>Create Pull Request on github</h3>
 <ol style="list-style-type: decimal">
 <li>Someone reviews and maybe merges</li>
 <li>That someone deletes branch after merged with master (there’s a button on the PR)</li>
