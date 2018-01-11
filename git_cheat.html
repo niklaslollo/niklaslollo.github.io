@@ -244,13 +244,16 @@ $(document).ready(function () {
 <h2>FAQ</h2>
 <div id="why-is-this-needed" class="section level3">
 <h3>Why is this needed?</h3>
-<p>Working with Github is great for version control and collaborating on projects. Many of my project partners have expressed fear about working with Github and especially working with the Terminal.</p>
-<p>I’ve found that you only need to know a few basic steps to get up and going.</p>
+<p>Working with Github is great for version control and collaborating on projects.</p>
+<p>Yet, many of my project partners have expressed fear about working with Github and especially working with the Terminal.</p>
+<p>Fortunately, you only need to know a few basic steps to use Git smoothly and effectively.</p>
 </div>
 <div id="who-is-this-for" class="section level3">
 <h3>Who is this for?</h3>
-<p>This is for new users to Github. The users should have some familiarity to coding, but this is not exactly needed. <em>Disclaimer</em>: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows.</p>
-<p>These guidelines are also for co-equal collaborators, not for Forks. But forking only requires a little more work to figure our</p>
+<p>This is for new users to Github.</p>
+<p>The users should have some familiarity to coding, but this is not exactly needed.</p>
+<p><em>Disclaimer</em>: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows.</p>
+<p>These steps are meant for co-equal collaborators. They will work with Forks, but the beginning part is a little different.</p>
 </div>
 </div>
 <div id="getting-started" class="section level2 tabset">
@@ -267,14 +270,16 @@ e.g. <code>https://github.com/niklaslollo/niklaslollo.github.io.git</code></p></
 </div>
 <div id="check-status" class="section level3">
 <h3>Check status</h3>
-<p>You will want to check status early and often. Do this between each step as you get used to working with git. The terminal will return a response detailing what is happening and provide suggestions for what you might want to do.<br />
-<code>git status</code></p>
+<p>You will want to check status early and often. Do this between each step as you get used to working with git.</p>
+<p>The terminal will return a response detailing what is happening and provide suggestions for what you might want to do.</p>
+<p><code>git status</code></p>
 </div>
 <div id="branches" class="section level3">
 <h3>Branches</h3>
 <p>You will want to work on a branch of the master, then merge it later.<br />
 <code>git checkout -b &lt;branchname&gt;</code></p>
-<p>To navigate around branches: <code>git checkout &lt;branchname&gt;</code></p>
+<p>To navigate around branches:<br />
+<code>git checkout &lt;branchname&gt;</code></p>
 </div>
 <div id="add-files-or-updates" class="section level3">
 <h3>Add files or updates</h3>
@@ -290,14 +295,15 @@ Try to be succinct, but descriptive in your message. This tags the update for fu
 <code>git push</code></p></li>
 </ol>
 </div>
-<div id="create-pull-request-on-github" class="section level3">
-<h3>Create Pull Request on github</h3>
+<div id="merging-with-master-branch" class="section level3">
+<h3>Merging with master branch</h3>
 <ol style="list-style-type: decimal">
-<li>Someone reviews and maybe merges</li>
-<li>That someone deletes branch after merged with master (there’s a button on the PR)</li>
-<li>Delete branch locally</li>
+<li><p>Create pull request from your branch on Github.</p></li>
+<li><p>Another partner reviews and decides whether to merge or ask for edits.</p></li>
+<li><p>Assuming it passes the review, that partner accepts and merges the branch with Master. Then the branch should be deleted on Github.</p></li>
+<li><p>Delete local branch using Terminal.<br />
+<code>git branch -d &lt;branch_name&gt;</code></p></li>
 </ol>
-<p><code>git branch -d branch_name</code></p>
 </div>
 </div>
 

@@ -1,14 +1,20 @@
 ## FAQ {.tabset}
 
 ### Why is this needed?
-Working with Github is great for version control and collaborating on projects. Many of my project partners have expressed fear about working with Github and especially working with the Terminal. 
+Working with Github is great for version control and collaborating on projects.  
 
-I've found that you only need to know a few basic steps to get up and going. 
+Yet, many of my project partners have expressed fear about working with Github and especially working with the Terminal. 
+
+Fortunately, you only need to know a few basic steps to use Git smoothly and effectively. 
 
 ### Who is this for?
-This is for new users to Github. The users should have some familiarity to coding, but this is not exactly needed. *Disclaimer*: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows. 
+This is for new users to Github.  
 
-These guidelines are also for co-equal collaborators, not for Forks. But forking only requires a little more work to figure our
+The users should have some familiarity to coding, but this is not exactly needed.  
+
+*Disclaimer*: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows.  
+
+These steps are meant for co-equal collaborators. They will work with Forks, but the beginning part is a little different.
 
 ## Getting started {.tabset}
 
@@ -23,14 +29,17 @@ e.g. `https://github.com/niklaslollo/niklaslollo.github.io.git`
 `git clone <link>`
 
 ### Check status
-You will want to check status early and often. Do this between each step as you get used to working with git. The terminal will return a response detailing what is happening and provide suggestions for what you might want to do.  
+You will want to check status early and often. Do this between each step as you get used to working with git.  
+
+The terminal will return a response detailing what is happening and provide suggestions for what you might want to do.  
+
 `git status`
 
 ### Branches
 You will want to work on a branch of the master, then merge it later.  
 `git checkout -b <branchname>`  
   
-To navigate around branches:
+To navigate around branches:  
 `git checkout <branchname>`
 
 ### Add files or updates
@@ -47,9 +56,12 @@ Try to be succinct, but descriptive in your message. This tags the update for fu
 3. Push to github  
 `git push`
 
-### Create Pull Request on github
- 1. Someone reviews and maybe merges
- 2. That someone deletes branch after merged with master (there's a button on the PR)
- 3. Delete branch locally
-
-`git branch -d branch_name`
+### Merging with master branch
+ 1. Create pull request from your branch on Github.  
+ 
+ 2. Another partner reviews and decides whether to merge or ask for edits.  
+ 
+ 3. Assuming it passes the review, that partner accepts and merges the branch with Master. Then the branch should be deleted on Github.  
+ 
+ 4. Delete local branch using Terminal.  
+ `git branch -d <branch_name>`
