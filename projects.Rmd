@@ -1,17 +1,33 @@
+---
+output: html_document
+bibliography: bib.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+nocite: "@*"
+---
+
+<br>
+My current work focuses on the clothing industry, and corporate efforts to improve the working conditions in factories as well as the decrease the environmental impacts from production.
+
 ## Publications {.tabset}
 
+### Published
+<div id="refs"></div>
+
 ### Submitted for Review
- * Mimi-PAGE (Nature Scientific Data)
+ * Mimi-PAGE - An Open-Source Implementation of
+the PAGE09 Integrated Assessment Model [github](https://github.com/anthofflab/mimi-page.jl.git)
 
 ### Pre-submission
  * Field Experiment on worker wages, productivity and profits in Thai clothing factory
 
-### Published
-[Transforming Consumption](http://www.annualreviews.org/doi/abs/10.1146/annurev-environ-102014-021224)
-
 ## Projects{.tabset}
 
 ### Ongoing
+ 1. [Hawaii Wildfire Management Organization](http://www.hawaiiwildfire.org/)
+
 ### Completed
- * [Real Time Health Monitoring](https://www.fairtechcollective.org/experiments/)
+ 1. [Real Time Health Monitoring](https://www.fairtechcollective.org/experiments/)
+
+### CV (pdf)
+[download link](Lolloresume.pdf)
  

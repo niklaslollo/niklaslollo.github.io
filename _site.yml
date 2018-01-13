@@ -4,7 +4,6 @@ output:
   html_document:
     lib_dir: site_libs
     theme: simplex
-    self_contained: no
     css: style.css
 navbar:
   title: Niklas Lollo
@@ -13,7 +12,7 @@ navbar:
     href: index.html
   - text: About
     href: about.html
-  - text: Projects
+  - text: Work
     href: projects.html
   - text: Git Cheatsheet
     href: git_cheat.html
@@ -25,6 +24,8 @@ navbar:
       href: https://github.com/niklaslollo
     - icon: fa-linkedin
       href: https://linkedin.com/in/lollon
+    - icon: fa-university
+      href: https://scholar.google.com/citations?user=B3P77eAAAAAJ&hl=en
     - icon: fa-envelope
       href: mailto:lollon@berkeley.edu
 

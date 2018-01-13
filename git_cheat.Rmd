@@ -1,3 +1,6 @@
+<br>
+This is a quick-and-dirty guide for working with Git from the MacOSX Terminal.
+
 ## FAQ {.tabset}
 
 ### Why is this needed?
@@ -14,7 +17,12 @@ The users should have some familiarity to coding, but this is not exactly needed
 
 These steps are meant for co-equal collaborators. They will work with Forks, but the beginning part is a little different.
 
-*Disclaimer*: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows.  
+*Disclaimer*: These guidelines are for Mac OSX users, but I believe are easily transferrable to Windows.
+
+### External resources
+ 1. [Pro Git book](https://git-scm.com/book/en/v1/Getting-Started)  
+ 2. [PDF Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)  
+ 3. [Hubspot](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 ## Using Git from Terminal {.tabset}
 
