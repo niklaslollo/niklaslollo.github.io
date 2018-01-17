@@ -5,6 +5,7 @@ output:
     lib_dir: site_libs
     theme: simplex
     css: style.css
+    self_contained: false
 navbar:
   title: Niklas Lollo
   left:

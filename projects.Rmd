@@ -18,15 +18,29 @@ My current work focuses on the clothing industry, and corporate efforts to impro
 the PAGE09 Integrated Assessment Model [github](https://github.com/anthofflab/mimi-page.jl.git)
 
 ### Pre-submission
- * Field Experiment on worker wages, productivity and profits in Thai clothing factory
+ * Productivity, Profits, and Pay: A Field Experiment Analyzing the Impacts of Compensation Systems in an Apparel Factory
+
 
 ## Projects{.tabset}
 
-### Ongoing
+### Current
  1. [Hawaii Wildfire Management Organization](http://www.hawaiiwildfire.org/)
 
-### Completed
- 1. [Real Time Health Monitoring](https://www.fairtechcollective.org/experiments/)
+### Past
+ 1. [Real Time Health Monitoring](https://www.fairtechcollective.org/experiments/)  
+ Dynamic R ShinyDashboard application for data analysis. Two more fully-documented R scripts using `tidyverse` for cleaning and processing data.
+<div id="wrapper" style="width:100%; text-align:center">
+<img src="photos/fairtech.png" style="width:400px";>
+
+ 2. [Mimi-PAGE - An Open-Source Implementation of the PAGE09 Integrated Assessment Model](https://github.com/anthofflab/mimi-page.jl.git)
+ Coded PAGE IAM in Julia using MIMI framework. Provided complete documentation on the github.
+ 
+ 3. 
+ 
+ 4. Research assistance:
+  * [The Science of Sustainable Supply Chains](http://science.sciencemag.org/content/344/6188/1124)
+  * [The Impact of Sustainability Information on Consumer Decision Making](http://onlinelibrary.wiley.com/doi/10.1111/jiec.12310/full)
+  * [Shopping for Good](https://bostonreview.net/br-book/shopping-good)
 
 ### CV (pdf)
 [download link](Lolloresume.pdf)
