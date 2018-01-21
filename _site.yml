@@ -2,10 +2,10 @@ name: niklaslollo.github.io
 output_dir: '.'
 output:
   html_document:
-    lib_dir: site_libs
     theme: simplex
     css: style.css
-    self_contained: false
+    lib_dir: site_libs
+    self_contained: no
 navbar:
   title: Niklas Lollo
   left:

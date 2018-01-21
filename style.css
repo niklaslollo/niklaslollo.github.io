@@ -1,5 +1,31 @@
-newfont {
-  color: #FFFFBB;
-  font-size: 20px;
-  margin-left: 10px;
+.index-main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+#main-text .inner-text h4{
+  color: black;
+  font-weight: 600;
+}
+
+.main-photo {
+  max-width: 400px;
+  margin-right:10px;
+}
+
+.inner-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.bottom-photo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  flex-wrap: wrap;
+  align-items: center;
 }
