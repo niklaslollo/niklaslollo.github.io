@@ -15,6 +15,8 @@ navbar:
     href: about.html
   - text: Work
     href: projects.html
+  - text: Blog
+    href: https://niklaslollo.netlify.com
   - text: Git Cheatsheet
     href: git_cheat.html
   - text: Get in Touch
