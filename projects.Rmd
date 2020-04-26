@@ -14,11 +14,11 @@ I aim for real world relevance and academic rigor, and I often work with partner
 ## Work {.tabset}
 
 ### Select Peer-Reviewed Publications
-1. *Lollo, Niklas*, and Dara O’Rourke. “Factory Benefits to Paying Workers More: The Critical Role of Compensation Systems in Apparel Manufacturing.” Edited by Shihe Fu. PLOS ONE 15, no. 2 (February 5, 2020): e0227510. https://doi.org/10.1371/journal.pone.0227510.
+1. **Lollo, Niklas**, and Dara O’Rourke. “Factory Benefits to Paying Workers More: The Critical Role of Compensation Systems in Apparel Manufacturing.” Edited by Shihe Fu. PLOS ONE 15, no. 2 (February 5, 2020): e0227510. https://doi.org/10.1371/journal.pone.0227510.
 
-2. Moore, Frances C., James Rising, *Niklas Lollo*, Cecilia Springer, Valeri Vasquez, Alex Dolginow, Chris Hope, and David Anthoff. “Mimi-PAGE, an Open-Source Implementation of the PAGE09 Integrated Assessment Model.” Scientific Data 5, no. 180187 (2018). https://doi.org/10.1038/sdata.2018.187.
+2. Moore, Frances C., James Rising, **Niklas Lollo**, Cecilia Springer, Valeri Vasquez, Alex Dolginow, Chris Hope, and David Anthoff. “Mimi-PAGE, an Open-Source Implementation of the PAGE09 Integrated Assessment Model.” Scientific Data 5, no. 180187 (2018). https://doi.org/10.1038/sdata.2018.187.
 
-3. O’Rourke, Dara, and *Niklas Lollo*. Transforming Consumption: From Decoupling, to Behavior Change, to System Changes for Sustainable Consumption. Annual Review of Environment and Resources. Vol. 40, 2015. https://doi.org/10.1146/annurev-environ-102014-021224.
+3. O’Rourke, Dara, and **Niklas Lollo**. Transforming Consumption: From Decoupling, to Behavior Change, to System Changes for Sustainable Consumption. Annual Review of Environment and Resources. Vol. 40, 2015. https://doi.org/10.1146/annurev-environ-102014-021224.
 
 See [Google Scholar](https://scholar.google.com/citations?user=B3P77eAAAAAJ&hl=en) for an up-to-date list.
 
