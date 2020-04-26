@@ -1,29 +1,25 @@
 ---
-output: html_document
-bibliography: bib.bib
-csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
-nocite: "@*"
+#output: html_document
+#bibliography: bib.bib
+#csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+#nocite: "@*"
 ---
 
 <br>
 My current work focuses on the clothing industry, and corporate efforts to improve the working conditions in factories as well as the decrease the environmental impacts from production.
 
-## Publications {.tabset}
+## Work {.tabset}
 
-### Published
-<div id="refs"></div>
+### Select Peer-Reviewed Publications
+1. Lollo, Niklas, and Dara O’Rourke. “Factory Benefits to Paying Workers More: The Critical Role of Compensation Systems in Apparel Manufacturing.” Edited by Shihe Fu. PLOS ONE 15, no. 2 (February 5, 2020): e0227510. https://doi.org/10.1371/journal.pone.0227510.
 
-### Submitted for Review
+2. Moore, Frances C., James Rising, Niklas Lollo, Cecilia Springer, Valeri Vasquez, Alex Dolginow, Chris Hope, and David Anthoff. “Mimi-PAGE, an Open-Source Implementation of the PAGE09 Integrated Assessment Model.” Scientific Data 5, no. 180187 (2018). https://doi.org/10.1038/sdata.2018.187.
 
-Lollo, Niklas, and Dara O’Rourke. “Productivity, Profits, and Pay: A Field Experiment Analyzing the Impacts of Compensation Systems in an Apparel Factory.” Manuscript submitted for publication. 2018.
+3. O’Rourke, Dara, and Niklas Lollo. Transforming Consumption: From Decoupling, to Behavior Change, to System Changes for Sustainable Consumption. Annual Review of Environment and Resources. Vol. 40, 2015. https://doi.org/10.1146/annurev-environ-102014-021224.
 
-## Projects{.tabset}
+See [Google Scholar](https://scholar.google.com/citations?user=B3P77eAAAAAJ&hl=en) for an up-to-date list.
 
-### Current
- 1. Analysis of the Impacts of the Higg FEM
- 2. ERGAN Intellectual Networking
-
-### Past
+### Data Science Projects
  1. [Hawaii Wildfire Management Organization](https://bnhm-shiny.berkeley.edu/HWMO/)  
  Dynamic R ShinyDashboard app with Leaflet integration for data exploration with fully documented github.
  <div id="wrapper" style="width:100%; text-align:center">
@@ -34,11 +30,8 @@ Lollo, Niklas, and Dara O’Rourke. “Productivity, Profits, and Pay: A Field E
 <img src="photos/fairtech.png" style="width:400px";>
  3. [Mimi-PAGE - An Open-Source Implementation of the PAGE09 Integrated Assessment Model](https://github.com/anthofflab/mimi-page.jl.git)  
  Coded PAGE IAM in Julia using MIMI framework. Provided complete documentation on the github.
- 4. Research assistance:
-  * [The Science of Sustainable Supply Chains](http://science.sciencemag.org/content/344/6188/1124)
-  * [The Impact of Sustainability Information on Consumer Decision Making](http://onlinelibrary.wiley.com/doi/10.1111/jiec.12310/full)
-  * [Shopping for Good](https://bostonreview.net/br-book/shopping-good)
 
-### CV (pdf)
-[download link](Lolloresume.pdf)
+### CV
+<embed src-“LolloResume_summary.pdf” width=”600” height=”500”> </embed>
+[download link](LolloResume_summary.pdf)
  

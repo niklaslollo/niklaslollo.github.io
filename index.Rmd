@@ -5,9 +5,10 @@ title: "Niklas Lollo"
   <div class="main-photo"><img src="photos/CSP_3556.jpg"></div>
   <div id="main-text">
   <div class="inner-text">
-  <h4>PhD Student, Energy & Resources Group</h4>
-  <h4>NSF NRT Fellow, Data Science for the 21st Century</h4>
+  <h4>PhD Candidate</h4>
+  <h4> Energy & Resources Group </h4>
   <h4>UC Berkeley</h4>
+  <h4>NSF NRT Fellow, Data Science for the 21st Century</h4>
   </div>
   </div>
 </div>

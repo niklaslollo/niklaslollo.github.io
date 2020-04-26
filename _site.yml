@@ -16,19 +16,21 @@ navbar:
   - text: Work
     href: projects.html
   - text: Blog
-    href: https://niklaslollo.netlify.com
+    href: https://niklaslollo.netlify.app
   - text: Git Cheatsheet
     href: git_cheat.html
   - text: Get in Touch
     menu:
-    - icon: fa-twitter
-      href: https://twitter.com/niklaslollo
     - icon: fa-github
+      text: Github
       href: https://github.com/niklaslollo
     - icon: fa-linkedin
+      text: LinkedIn
       href: https://linkedin.com/in/lollon
     - icon: fa-university
+      text: Google Scholar
       href: https://scholar.google.com/citations?user=B3P77eAAAAAJ&hl=en
     - icon: fa-envelope
+      text: Email
       href: mailto:lollon@berkeley.edu
 
