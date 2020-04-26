@@ -1,12 +1,15 @@
 ---
-#output: html_document
+#title: "Work"
+output: html_document
 #bibliography: bib.bib
 #csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 #nocite: "@*"
 ---
-
 <br>
-My current work focuses on the clothing industry, and corporate efforts to improve the working conditions in factories as well as the decrease the environmental impacts from production.
+
+My academic work has mostly focused on the dream of data solving sustainable production and consumption. With that as the backbone, my dissertation spanned consumer behavior change efforts, factory innovations, and non-governmental regulation. Most of this research was focused on the apparel industry, and took place in Thailand, Bangladesh, and China. I also have experience with data science projects relating to wildfires, oil refinery pollution, and the social cost of carbon. I have teaching experience in data ethics as well as data science and sustainability.
+
+I aim for real world relevance and academic rigor, and I often work with partners outside academia. I have been funded by the National Science Foundation as well as grants from the Tides Foundation and C&A Foundation. 
 
 ## Work {.tabset}
 
@@ -21,17 +24,20 @@ See [Google Scholar](https://scholar.google.com/citations?user=B3P77eAAAAAJ&hl=e
 
 ### Data Science Projects
  1. [Hawaii Wildfire Management Organization](https://bnhm-shiny.berkeley.edu/HWMO/)  
- Dynamic R ShinyDashboard app with Leaflet integration for data exploration with fully documented github.
- <div id="wrapper" style="width:100%; text-align:center">
-<img src="photos/hwmo.png" style="width:400px";>
+ Designed and programmed an RShiny App that maps historical wildfires, risk assessments, and
+provides fire preparedness guidance.
+  <div id="wrapper" style="width:100%; text-align:center">
+  <img src="photos/hwmo.png" style="width:400px" />
+ 
  2. [Real Time Health Monitoring](https://www.fairtechcollective.org/experiments/)  
- Dynamic R ShinyDashboard application for data analysis. Two more fully-documented R scripts using `tidyverse` for cleaning and processing data.
-<div id="wrapper" style="width:100%; text-align:center">
-<img src="photos/fairtech.png" style="width:400px";>
+Designed and programmed dynamic RShiny App for citizen-science data analysis. Project aiming to link Bay Area refinery pollution data to personal health outcomes.
+  <div id="wrapper" style="width:100%; text-align:center">
+  <img src="photos/fairtech.png" style="width:400px" />
+ 
  3. [Mimi-PAGE - An Open-Source Implementation of the PAGE09 Integrated Assessment Model](https://github.com/anthofflab/mimi-page.jl.git)  
- Coded PAGE IAM in Julia using MIMI framework. Provided complete documentation on the github.
+ Coded PAGE IAM in Julia using MIMI framework.
 
 ### CV
-<embed src-“LolloResume_summary.pdf” width=”600” height=”500”> </embed>
-[download link](LolloResume_summary.pdf)
+<embed src="LolloResume_summary.pdf" width="600" height="500"> </embed>
+[Resume](LolloResume_summary.pdf) | [CV](AcademicCV_Lollo_2020.pdf)
  
