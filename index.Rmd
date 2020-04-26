@@ -14,4 +14,4 @@ title: "Niklas Lollo"
 </div>
 
 
-<div class="bottom-photo"><img src="photos/erg.png" style="width:100px;"><img src="photos/ucb.png" style="width:200px";><img src="photos/nsf.png" style="width:100px;"></div>
+<div class="bottom-photo"><img src="photos/erg.png" style="width:100px;"><img src="photos/ucb.png" style="width:200px;"><img src="photos/nsf.png" style="width:100px;"></div>
