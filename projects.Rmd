@@ -37,6 +37,21 @@ Designed and programmed dynamic RShiny App for citizen-science data analysis. Pr
  3. [Mimi-PAGE - An Open-Source Implementation of the PAGE09 Integrated Assessment Model](https://github.com/anthofflab/mimi-page.jl.git)  
  Coded PAGE IAM in Julia using MIMI framework.
 
+### Non-academic Articles
+
+  1. [ERG Blog - Modeling an Ecological Phenomenon: Stress](https://lifeaterg.blogspot.com/2015/10/modeling-ecological-phenomenon-stress.html)
+  2. [AEE Blog - Behavioral Energy Efficiency](https://blog.aee.net/beyond-sweaters-unleashing-behavioral-energy-efficiency)
+  3. [The Inertia - They Paved Paradise to Put Up a Biking Trail](https://www.theinertia.com/mountain/they-paved-paradise-to-put-up-a-biking-trail/)
+  4. [ERG Blog - The Mentee](https://lifeaterg.blogspot.com/2016/10/the-mentee.html)
+  5. [Oatmeal Magazine - In Praise of the Living - Poem](https://oatmealmagazine.com/in-praise-of-the-living/)
+  
+### Interests
+  
+  1. Insight Meditation - 7 silent retreats (40 days total)
+  2. Biking - Barcelona to Berlin (~2000 miles), CA coast (~200 miles), Tahoe to Bishop (~250 miles)
+  3. Contemporary Dance - 8 performances - Joe Goode Annex, The Exploratorium, Fort Mason, and more
+  4. Soccer - College club national champion (2008)
+
 ### CV
 <embed src="LolloResume_summary.pdf" width="600" height="500"> </embed>
 [Resume](LolloResume_summary.pdf) | [CV](AcademicCV_Lollo_2020.pdf)
